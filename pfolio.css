@@ -209,8 +209,8 @@ h1{
 
 .line {
   position: absolute;
-  top: 36.7%;
-  margin-left: 6%;
+  margin-top: 0.5%;
+  
   width: 10%;
   height: 2px;
   background-color: orange;
@@ -219,7 +219,7 @@ h1{
 
 .line1 {
   position: absolute;
-  top: 36.7%;
+  margin-top: -1.4%;
   margin-left: 7%;
   width: 10%;
   height: 2px;
@@ -229,7 +229,7 @@ h1{
 
 .contactLine {
   position: absolute;
-  top: 37%;
+  margin-top: -1.35%;
   margin-left: 7%;
   width: 10%;
   height: 2px;
@@ -239,8 +239,8 @@ h1{
 
 .SkillsLine {
   position: absolute;
-  top: 136%;
-  margin-left: 6%;
+  margin-top: 0.5%;
+  
   width: 10%;
   height: 2px;
   background-color: orange;
@@ -249,8 +249,8 @@ h1{
 
 .InterestsLine {
   position: absolute;
-  top: 193%;
-  margin-left: 8%;
+  margin-top: 0.5%;
+  
   width: 10%;
   height: 2px;
   background-color: orange;
