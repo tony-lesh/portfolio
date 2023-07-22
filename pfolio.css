@@ -210,7 +210,7 @@ h1{
 .line {
   position: absolute;
   margin-top: 0.5%;
-  
+  margin-left: 6%;
   width: 10%;
   height: 2px;
   background-color: orange;
@@ -240,7 +240,7 @@ h1{
 .SkillsLine {
   position: absolute;
   margin-top: 0.5%;
-  
+  margin-left: 7%;
   width: 10%;
   height: 2px;
   background-color: orange;
@@ -250,7 +250,7 @@ h1{
 .InterestsLine {
   position: absolute;
   margin-top: 0.5%;
-  
+  margin-left: 8%;
   width: 10%;
   height: 2px;
   background-color: orange;
