@@ -585,3 +585,17 @@ padding:5px;
 }
 
 }
+
+@media only screen and (max-width: 800px) {
+.photo{
+	width:100%;
+	float: none;
+	margin-left: 7%;
+	padding: 5px;
+}
+
+.photo img{
+	width:290px;
+	height:350px;
+}
+}
