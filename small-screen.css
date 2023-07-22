@@ -521,6 +521,9 @@ margin-bottom:0%;
  margin-left:0;
 }
 
+	.container1 p{
+		margin-top:3%;
+	}
 
 .containr1:hover{
 	background-color: #111;
