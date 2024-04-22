@@ -18,7 +18,7 @@ const texts = [
   "Java",
   "Java FX",
   "mySQL",
-  "PostgreSQL,
+  "PostgreSQL",
   "Firebase",
   "Kali Linux",
   "Freelancer",
